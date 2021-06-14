@@ -1,0 +1,16 @@
+﻿type,name,topics
+exposure,lockdown,1
+exposure,liquidity ,8
+exposure,demand,20
+exposure,demand,28
+exposure,business operations,24
+exposure,supply chain,29
+exposure,supply chain,34
+exposure,employees,11
+exposure,employees,30
+response,community engagement,13
+response,cost cutting,18
+response,digital transformation,14
+response,digital transformation,15
+response,new product development,12
+response,new product development,26

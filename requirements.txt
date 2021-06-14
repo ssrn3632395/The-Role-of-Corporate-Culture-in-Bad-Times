@@ -1,0 +1,13 @@
+tqdm==4.28.1
+stanfordnlp==0.2.0
+numpy==1.16.4
+lxml==4.2.5
+simplejson==3.17.0
+pdfminer.six==20200517
+gensim==3.8.0
+pandas==1.0.3
+beautifulsoup4==4.9.3
+pdfminer==20191125
+pendulum==2.1.2
+scikit_learn==0.24.2
+stopwordsiso==0.6.1

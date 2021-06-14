@@ -1,0 +1,175 @@
+Topic 1 Top Words:
+ 	 Highest Prob: quarter, revenue, growth, the_quarter, q1, strong, deposit, result, the_first_quarter, prior 
+ 	 FREX: revenue, quarter, q1, deposit, the_quarter, the_first_quarter, growth, year-over-year, award, confirm 
+ 	 Lift: confirm, revenue, deposit, quarter, q1, award, post, the_first_quarter, constant, average 
+ 	 Score: confirm, quarter, revenue, deposit, q1, the_quarter, growth, award, the_first_quarter, average 
+Topic 2 Top Words:
+ 	 Highest Prob: report, company, form, press_release, measure, file, provide, december, refer, share 
+ 	 FREX: report, press_release, file, form, december, gaap, 10-k, 10-q, send, measure 
+ 	 Lift: send, correct, 10-q, report, file, press_release, form, 10-k, december, financing 
+ 	 Score: send, report, form, 10-k, gaap, file, 10-q, press_release, non-gaap, december 
+Topic 3 Top Words:
+ 	 Highest Prob: forward-looking_statement, company, future, include, statement, expectation, factor, risk, event, result 
+ 	 FREX: forward-looking_statement, future, statement, expectation, actual_result_materially, risk_uncertainty, securities, risk, factor, brian 
+ 	 Lift: securities, forward-looking_statement, actual_result_materially, brian, litigation, risk_uncertainty, statement, future, obligation, law 
+ 	 Score: securities, forward-looking_statement, statement, actual_result_materially, risk_uncertainty, future, factor, filings, expectation, obligation 
+Topic 4 Top Words:
+ 	 Highest Prob: patient, fda, mytesi, support, indication, clinical, study, cancer, napo, diarrhea 
+ 	 FREX: mytesi, fda, indication, diarrhea, napo, patient, cancer, study, drug, therapy 
+ 	 Lift: relief, diarrhea, mytesi, prescription, hiv, napo, indication, fda, drug, cancer 
+ 	 Score: relief, patient, mytesi, diarrhea, cancer, fda, study, napo, indication, therapy 
+Topic 5 Top Words:
+ 	 Highest Prob: trial, remote, virtual, activity, customer, clinical, patient, monitoring, change, conversation 
+ 	 FREX: virtual, remote, trial, monitoring, paul, clinical, conversation, engage, field, solutions 
+ 	 Lift: paul, virtual, monitoring, remote, trial, conversation, engage, alistair, field, connect 
+ 	 Score: paul, trial, virtual, remote, monitoring, patient, clinical, conversation, field, engage 
+Topic 6 Top Words:
+ 	 Highest Prob: cash, cash_flow, capital, balance, loan, term, company, pay, capex, dividend 
+ 	 FREX: cash, cash_flow, capex, balance, dividend, draw, glad, pay, decide, capital 
+ 	 Lift: glad, cash, cash_flow, capex, payable, decide, draw, proceeds, revolve, balance 
+ 	 Score: glad, cash, cash_flow, loan, dividend, balance, capital, capex, credit_facility, draw 
+Topic 7 Top Words:
+ 	 Highest Prob: opportunity, metric, recovery, stress, continue, closely, patient, severe, medical, display 
+ 	 FREX: metric, stress, recovery, severe, display, closely, recover, device, opportunity, medical 
+ 	 Lift: metric, display, severe, stress, recovery, recover, visit, watch, closely, predict 
+ 	 Score: metric, stress, recovery, display, visit, patient, severe, device, medical, opportunity 
+Topic 8 Top Words:
+ 	 Highest Prob: financial, position, liquidity, balance_sheet, strength, debt, continue, strong, remain, m&a 
+ 	 FREX: financial, liquidity, position, m&a, participate, debt, balance_sheet, strength, current_environment, preserve 
+ 	 Lift: participate, financial, m&a, storm, liquidity, assess, maturity, position, strengthen, debt 
+ 	 Score: participate, financial, liquidity, position, debt, balance_sheet, m&a, strength, maturity, credit_facility 
+Topic 9 Top Words:
+ 	 Highest Prob: portfolio, loan, helpful, slide, credit, segment, commercial, book, loss, property 
+ 	 FREX: portfolio, helpful, loan, life, book, credit, property, exposure, slide, loss 
+ 	 Lift: life, helpful, portfolio, property, exposure, book, deck, loan, credit, illustrate 
+ 	 Score: life, loan, portfolio, helpful, credit, slide, exposure, property, loss, book 
+Topic 10 Top Words:
+ 	 Highest Prob: supply_chain, inventory, hand, priority, manage, associate, key, shift, meet, continue 
+ 	 FREX: supply_chain, hand, inventory, associate, priority, warehouse, manage, online, leverage, respond 
+ 	 Lift: hand, supply_chain, warehouse, supplies, associate, priority, inventory, leverage, aggressively, stage 
+ 	 Score: hand, supply_chain, inventory, warehouse, priority, associate, online, manage, club, shift 
+Topic 11 Top Words:
+ 	 Highest Prob: demand, price, china, industrial, capacity, volume, pricing, oil, industry, europe 
+ 	 FREX: demand, capacity, industrial, oil, price, pricing, volume, china, feedstock, packaging 
+ 	 Lift: oil, feedstock, capacity, demand, industrial, price, pricing, packaging, optimize, automotive 
+ 	 Score: oil, demand, china, price, industrial, pricing, capacity, packaging, volume, feedstock 
+Topic 12 Top Words:
+ 	 Highest Prob: deliver, phase, strategy, company, builder, delivery, requirement, agreement, schedule, final 
+ 	 FREX: deliver, phase, builder, schedule, requirement, delivery, final, strategy, agreement, manufacturer 
+ 	 Lift: schedule, deliver, builder, requirement, phase, final, delivery, york, manufacturer, lender 
+ 	 Score: schedule, deliver, phase, builder, requirement, delivery, final, strategy, agreement, lender 
+Topic 13 Top Words:
+ 	 Highest Prob: customer, service, support, framework, solution, provider, enable, win, recognize, base 
+ 	 FREX: framework, customer, provider, recognize, solution, service, win, enable, content, support 
+ 	 Lift: recognize, framework, provider, seachange, customer, content, solution, video, enable, win 
+ 	 Score: recognize, customer, framework, service, provider, solution, content, win, video, support 
+Topic 14 Top Words:
+ 	 Highest Prob: understand, build, guess, inventory, covid, regulatory, follow-up, term, reserve, account 
+ 	 FREX: understand, build, regulatory, guess, follow-up, covid, reserve, inventory, account, hope 
+ 	 Lift: regulatory, understand, follow-up, build, commentary, covid, guess, reserve, stuff, account 
+ 	 Score: regulatory, understand, guess, build, inventory, covid, reserve, follow-up, commentary, account 
+Topic 15 Top Words:
+ 	 Highest Prob: close, deal, plant, day, issue, pass, time, april, week, loan 
+ 	 FREX: close, plant, deal, pass, issue, lose, ppp, attention, day, closure 
+ 	 Lift: pass, plant, close, deal, ppp, attention, temporarily, south, lose, inspection 
+ 	 Score: pass, close, plant, deal, ppp, loan, issue, day, lose, closure 
+Topic 16 Top Words:
+ 	 Highest Prob: management, team, company, board, lead, leadership, executive, tim, organization, long-term 
+ 	 FREX: management, executive, tim, leadership, board, lead, team, ceo, director, officer 
+ 	 Lift: tim, executive, president, experienced, management, ceo, officer, leadership, director, board 
+ 	 Score: tim, management, team, executive, board, president, director, ceo, leadership, officer 
+Topic 17 Top Words:
+ 	 Highest Prob: guidance, range, provide, covid-19, uncertainty, expect, the_second_quarter, visibility, q2, feel 
+ 	 FREX: guidance, range, visibility, uncertainty, body, impact_covid-19, the_second_quarter, duration, withdraw, q2 
+ 	 Lift: body, withdraw, guidance, range, visibility, duration, previous, impact_covid-19, unknown, erik 
+ 	 Score: body, guidance, range, withdraw, visibility, uncertainty, duration, the_second_quarter, q2, scenario 
+Topic 18 Top Words:
+ 	 Highest Prob: production, backlog, unit, manufacturing, activity, improve, february, improvement, anticipate, slow 
+ 	 FREX: unit, backlog, production, railcar, manufacturing, difference, slow, car, biggest, improvement 
+ 	 Lift: unit, railcar, backlog, difference, bigger, production, biggest, car, north, footprint 
+ 	 Score: unit, backlog, production, railcar, difference, manufacturing, car, biggest, improvement, slow 
+Topic 19 Top Words:
+ 	 Highest Prob: delay, contract, sale, challenge, sign, tribe, meeting, team, commercial, china 
+ 	 FREX: sign, tribe, delay, contract, meeting, remotely, esoguard, challenge, function, technical 
+ 	 Lift: technical, sign, tribe, meeting, esoguard, training, remotely, function, delay, contract 
+ 	 Score: technical, tribe, delay, esoguard, contract, sign, meeting, remotely, esocheck, function 
+Topic 20 Top Words:
+ 	 Highest Prob: the_year, program, term, dollar, spend, level, hard, perspective, impact, supplier 
+ 	 FREX: the_year, dollar, program, spend, hard, perspective, purchase, rest, outlook, supplier 
+ 	 Lift: dollar, the_year, outlook, program, rest, spend, hard, minimize, perspective, purchase 
+ 	 Score: dollar, the_year, program, hard, spend, supplier, outlook, marketing, rest, purchase 
+Topic 21 Top Words:
+ 	 Highest Prob: capital, action, continue, reduce, activity, include, construction, situation, spending, current 
+ 	 FREX: action, capital, spending, construction, reduce, aggressive, expenditure, department, essential, structure 
+ 	 Lift: aggressive, expenditure, spending, action, capital, department, subsidiary, structure, construction, multiyear 
+ 	 Score: aggressive, action, capital, construction, spending, expenditure, reduce, essential, activity, department 
+Topic 22 Top Words:
+ 	 Highest Prob: time, employee, health, crisis, continue, difficult, pandemic, remain, team, safe 
+ 	 FREX: health, difficult, employee, time, crisis, safe, family, community, challenging, ensure 
+ 	 Lift: difficult, challenging, family, worker, community, safe, health, employee, serve, adapt 
+ 	 Score: difficult, employee, health, time, family, crisis, community, safe, challenging, ensure 
+Topic 23 Top Words:
+ 	 Highest Prob: earnings, fiscal, result, share, discuss, record, conference, quarter, financial_result, fiscal_quarter 
+ 	 FREX: earnings, conference, fiscal, record, financial_result, discuss, fiscal_quarter, operator_instruction, quarterly, dividend 
+ 	 Lift: operator_instruction, conference, earnings, record, financial_result, investor_relations, fiscal_quarter, discuss, conference_call, release 
+ 	 Score: operator_instruction, earnings, fiscal, conference, discuss, record, financial_result, result, fiscal_quarter, year_2020 
+Topic 24 Top Words:
+ 	 Highest Prob: project, regard, initiative, plan, touch, map_growth, software, impact, acquisition, opportunity 
+ 	 FREX: regard, initiative, touch, project, software, map_growth, consulting, acquisition, resource, exceed 
+ 	 Lift: regard, consulting, touch, initiative, software, project, map_growth, table, tom, lixoft 
+ 	 Score: regard, project, initiative, consulting, software, map_growth, touch, lixoft, acquisition, tom 
+Topic 25 Top Words:
+ 	 Highest Prob: facility, operate, essential, employee, service, business, government, social, health, continue 
+ 	 FREX: essential, facility, social, practice, operate, employee, workforce, contractor, factory, implement 
+ 	 Lift: contractor, testing, factory, practice, essential, distancing, social, workforce, idea, cleaning 
+ 	 Score: contractor, essential, facility, employee, testing, social, protocol, operate, factory, service 
+Topic 26 Top Words:
+ 	 Highest Prob: cost, margin, impact, mix, reduction, gross_margin, savings, relate, sale, item 
+ 	 FREX: cost, margin, savings, variable, reduction, mix, gross_margin, specific, item, headcount 
+ 	 Lift: variable, cost, headcount, margin, savings, efficiency, expansion, reduction, internal, specific 
+ 	 Score: variable, cost, margin, gross_margin, reduction, savings, mix, item, expansion, headcount 
+Topic 27 Top Words:
+ 	 Highest Prob: forecast, brazil, phone, customer, impact, demand, memory, relationship, trend, start 
+ 	 FREX: forecast, phone, brazil, memory, word, relationship, shut_down, slowdown, mobile, trend 
+ 	 Lift: word, phone, forecast, memory, brazil, slowdown, shut_down, mobile, faster, extremely 
+ 	 Score: word, forecast, phone, brazil, memory, mobile, shut_down, demand, relationship, slowdown 
+Topic 28 Top Words:
+ 	 Highest Prob: business, growth, consumer, continue, grow, segment, category, strong, the_future, specialty 
+ 	 FREX: business, the_future, consumer, grow, specialty, growth, e-commerce, category, products, segment 
+ 	 Lift: the_future, products, business, coatings, e-commerce, double, coating, diy, specialty, consumer 
+ 	 Score: the_future, business, consumer, growth, specialty, grow, category, digit, segment, e-commerce 
+Topic 29 Top Words:
+ 	 Highest Prob: market, u.s., reason, europe, irrigation, opportunity, oil_gas, matt, strong, distribution 
+ 	 FREX: market, reason, irrigation, u.s., oil_gas, matt, europe, create, piece, distribution 
+ 	 Lift: reason, market, irrigation, matt, oil_gas, piece, dynamics, degree, communicate, mobile 
+ 	 Score: reason, market, irrigation, oil_gas, matt, u.s., europe, mobile, brazil, piece 
+Topic 30 Top Words:
+ 	 Highest Prob: product, critical, hospital, care, angiovac, partner, launch, technology, development, progress 
+ 	 FREX: critical, product, angiovac, hospital, care, nanoknife, manufacture, launch, treat, jason 
+ 	 Lift: critical, angiovac, nanoknife, product, disposable, hospital, manufacture, dynamic, care, treat 
+ 	 Score: critical, product, angiovac, hospital, care, nanoknife, physician, launch, treat, procedure 
+Topic 31 Top Words:
+ 	 Highest Prob: week, tube, brand, right_now, march, april, store, strategy, sell, consumer 
+ 	 FREX: tube, brand, week, door, right_now, levi, store, april, premium, booking 
+ 	 Lift: premium, door, levi, tube, brand, love, wait, booking, week, read 
+ 	 Score: premium, tube, brand, week, levi, door, right_now, store, booking, april 
+Topic 32 Top Words:
+ 	 Highest Prob: sort, asset, water, company, bring, term, money, add, bank, activity 
+ 	 FREX: asset, sort, water, money, bring, size, fee, bank, the_past, oil_gas 
+ 	 Lift: asset, money, water, sort, raise, context, banking, the_past, bring, size 
+ 	 Score: asset, sort, water, money, bring, oil_gas, field, size, balance_sheet, bank 
+Topic 33 Top Words:
+ 	 Highest Prob: people, rate, start, march, expect, store, month, happen, behavior, guess 
+ 	 FREX: rate, people, store, behavior, shopping, push, tax, normalize, traffic, march 
+ 	 Lift: normalize, shopping, rate, consumption, people, behavior, traffic, push, shop, store 
+ 	 Score: normalize, people, rate, behavior, store, shopping, tax, guess, push, march 
+Topic 34 Top Words:
+ 	 Highest Prob: sale, increase, compare, income, period, decline, last_year, result, total, share 
+ 	 FREX: income, compare, increase, sale, last_year, decrease, decline, period, year-to-date, total 
+ 	 Lift: the_third_quarter_of_fiscal, partially_offset, diluted, income, consolidated, merchandise, gross_profit, year-to-date, foreign, adjusted 
+ 	 Score: the_third_quarter_of_fiscal, sale, compare, income, increase, last_year, decrease, basis_point, gross_margin, diluted 
+Topic 35 Top Words:
+ 	 Highest Prob: continue, option, expect, company, month, impact, remain, change, time, covid-19 
+ 	 FREX: option, expect, continue, month, remain, change, company, impact, covid-19, happen 
+ 	 Lift: option, expect, month, set, remain, continue, happen, change, covid-19, plan 
+ 	 Score: option, continue, expect, company, month, remain, happen, impact, change, term 
